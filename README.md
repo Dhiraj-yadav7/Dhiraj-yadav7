@@ -1,5 +1,17 @@
 # 💫 About Me:
-👨‍💻 I am currently a Final Year B.Tech Computer Science student with a strong interest in full-stack development and software engineering. I enjoy building real-world applications that solve practical problems and enhance user experience.<br><br>🚀 I have experience working with modern technologies such as JavaScript, React, Node.js, and MongoDB, and I am continuously improving my skills in both frontend and backend development.<br><br>💡 I am passionate about writing clean, efficient, and maintainable code, and I actively explore new tools and frameworks to stay updated with industry trends.<br><br>🎯 My goal is to grow as a developer and contribute to impactful and scalable projects.
+# Hi there, I'm Dhiraj Yadav 👋
+
+🎓 Final Year B.Tech Computer Science Student
+
+💻 Full Stack (MERN) Developer passionate about building scalable, user-friendly web applications.
+
+🚀 Skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, and REST APIs.
+
+🤖 Currently building AI-powered applications and continuously improving my DSA and full-stack development skills.
+
+🌱 Open to Software Development Engineer (SDE), Full Stack Developer, and MERN Stack opportunities.
+
+📫 Reach me at: dhiraj799177@gmail.com
 
 
 ## 🌐 Socials:
