@@ -116,21 +116,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dhiraj-yadav7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhiraj-yadav7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-yadav7&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true"/>
-
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhiraj-yadav7&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhiraj-yadav7&theme=tokyonight&hide_border=true"/>
-
+<img width="98%" src="https://streak-stats.demolab.com?user=Dhiraj-yadav7&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
 # 📈 Contribution Graph
 
 [![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-yadav7&theme=tokyo-night)](https://github.com/Dhiraj-yadav7)
