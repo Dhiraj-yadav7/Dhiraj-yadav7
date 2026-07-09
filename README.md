@@ -1,39 +1,150 @@
-# 💫 About Me:
-# Hi there, I'm Dhiraj Yadav 👋
+<h1 align="center">Hi 👋, I'm Dhiraj Yadav</h1>
+<h3 align="center">🚀 Final Year Computer Science Student | Full Stack (MERN) Developer | Java Developer</h3>
 
-🎓 Final Year B.Tech Computer Science Student
+<p align="center">
+Passionate about building scalable web applications, AI-powered solutions, and solving real-world problems through code.
+</p>
 
-💻 Full Stack (MERN) Developer passionate about building scalable, user-friendly web applications.
-
-🚀 Skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, and REST APIs.
-
-🤖 Currently building AI-powered applications and continuously improving my DSA and full-stack development skills.
-
-🌱 Open to Software Development Engineer (SDE), Full Stack Developer, and MERN Stack opportunities.
-
-📫 Reach me at: dhiraj799177@gmail.com
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dhiraj yadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhiraj_yadav_7280) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhiraj-yadav-b5b4b8292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dhirajYada63784) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhiraj799177@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhiraj-yadav7&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dhiraj-yadav7&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhiraj-yadav7&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhiraj-yadav7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhiraj-yadav7&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhiraj-yadav7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhiraj-yadav7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+- 🎓 Final Year B.Tech Computer Science Student
+- 💻 Full Stack (MERN) Developer
+- 🚀 Skilled in Java, JavaScript, React.js, Node.js, Express.js & MongoDB
+- 🤖 Building AI-powered web applications using Gemini AI
+- 🌱 Currently learning Data Structures & Algorithms and System Design
+- 👨‍💻 Open to SDE, Full Stack, and MERN Stack opportunities
+- 📫 Email: **dhiraj799177@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dhiraj-yadav-cse/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dhiraj-yadav7" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://dhiraj-portfolio-beta.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:dhiraj799177@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Virtual Assistant
+
+🔹 MERN Stack + Gemini AI
+
+🔗 **Live Demo:** https://virtual-assistant-pcvg.onrender.com/
+
+📂 **Repository:** https://github.com/your-repository
+
+---
+
+## 🌐 Personal Portfolio
+
+🔗 **Live Demo:** https://dhiraj-portfolio-beta.vercel.app/
+
+📂 **Repository:** https://github.com/Dhiraj-yadav7/React-Portfolio
+
+---
+
+## ✂️ Rock Paper Scissors Game
+
+🔗 **Live Demo:** https://your-demo-link
+
+📂 **Repository:** https://github.com/Dhiraj-yadav7/ROCK-PAPER-SCISSOR-GAME-
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dhiraj-yadav7&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=dhiraj-yadav7&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-yadav7&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+
+---
+
+# 📈 Contribution Graph
+
+[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-yadav7&theme=tokyo-night)](https://github.com/dhiraj-yadav7)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=dhiraj-yadav7&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# 💡 Currently Learning
+
+- MERN Stack
+- Data Structures & Algorithms (Java)
+- System Design
+- AI Integration with Web Applications
+- Open Source Contributions
+
+---
+
+### ⭐ Thanks for visiting my profile!
