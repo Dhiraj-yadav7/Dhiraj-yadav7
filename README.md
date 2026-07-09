@@ -1,25 +1,33 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Yadav</h1>
-<h3 align="center">🚀 Final Year Computer Science Student | Full Stack (MERN) Developer | Java Developer</h3>
+<h3 align="center">🚀 Final Year Computer Science Engineering Student | MERN Stack Developer | Frontend Developer </h3>
 
 <p align="center">
-Passionate about building scalable web applications, AI-powered solutions, and solving real-world problems through code.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+(MERN)+Developer;Java+Developer;Building+AI-Powered+Web+Applications;Open+to+Internships+%26+Full-Time+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhiraj-yadav7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<a href="https://github.com/Dhiraj-yadav7"><img src="https://komarev.com/ghpvc/?username=dhiraj-yadav7&label=Profile%20Views&color=0e75b6&style=flat" /></a>
+<a href="https://github.com/Dhiraj-yadav7?tab=followers"><img src="https://img.shields.io/github/followers/Dhiraj-yadav7?label=Followers&style=social" /></a>
+<a href="https://github.com/Dhiraj-yadav7"><img src="https://img.shields.io/github/stars/Dhiraj-yadav7?affiliations=OWNER&style=social" /></a>
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 Final Year B.Tech Computer Science Student
-- 💻 Full Stack (MERN) Developer
-- 🚀 Skilled in Java, JavaScript, React.js, Node.js, Express.js & MongoDB
-- 🤖 Building AI-powered web applications using Gemini AI
-- 🌱 Currently learning Data Structures & Algorithms and System Design
-- 👨‍💻 Open to SDE, Full Stack, and MERN Stack opportunities
-- 📫 Email: **dhiraj799177@gmail.com**
+🎓 Final Year B.Tech Computer Science Engineering Student
+
+💻 Passionate Full Stack (MERN) Developer building scalable web applications.
+
+🚀 Skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs and AI Integration.
+
+🤖 Currently building AI-powered applications and improving Data Structures & Algorithms.
+
+🌱 Exploring System Design and Backend Development.
+
+💼 Open to Software Development Engineer (SDE), MERN Stack Developer and Full Stack Developer opportunities.
+
+📧 Email: **dhiraj799177@gmail.com**
 
 ---
 
@@ -27,15 +35,15 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/dhiraj-yadav-cse/" target="_blank">
+<a href="https://www.linkedin.com/in/dhiraj-yadav-b5b4b8292/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dhiraj-yadav7" target="_blank">
+<a href="https://github.com/Dhiraj-yadav7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://dhiraj-portfolio-beta.vercel.app/" target="_blank">
+<a href="https://dhiraj-portfolio-beta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -49,41 +57,29 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 
 # 💻 Tech Stack
 
-### Languages
+### 🚀 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-### Database
+### 🛠️ Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -91,15 +87,17 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 
 ## 🤖 AI Virtual Assistant
 
-🔹 MERN Stack + Gemini AI
+> AI-powered virtual assistant built using the MERN Stack with secure authentication and Gemini AI integration.
 
 🔗 **Live Demo:** https://virtual-assistant-pcvg.onrender.com/
 
-📂 **Repository:** https://github.com/your-repository
+📂 **Repository:** https://github.com/Dhiraj-yadav7/Virtual-Assistant
 
 ---
 
 ## 🌐 Personal Portfolio
+
+> Responsive developer portfolio showcasing projects, skills, certifications and achievements.
 
 🔗 **Live Demo:** https://dhiraj-portfolio-beta.vercel.app/
 
@@ -107,9 +105,9 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 
 ---
 
-## ✂️ Rock Paper Scissors Game
+## 🎮 Rock Paper Scissors Game
 
-🔗 **Live Demo:** https://your-demo-link
+> Interactive JavaScript game with responsive UI and score tracking.
 
 📂 **Repository:** https://github.com/Dhiraj-yadav7/ROCK-PAPER-SCISSOR-GAME-
 
@@ -117,34 +115,52 @@ Passionate about building scalable web applications, AI-powered solutions, and s
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dhiraj-yadav7&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://streak-stats.demolab.com?user=dhiraj-yadav7&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhiraj-yadav7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-yadav7&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-yadav7&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhiraj-yadav7&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-yadav7&theme=tokyo-night)](https://github.com/dhiraj-yadav7)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dhiraj-yadav7&theme=tokyonight&no-frame=true&margin-w=10)
+[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-yadav7&theme=tokyo-night)](https://github.com/Dhiraj-yadav7)
 
 ---
 
 # 💡 Currently Learning
 
-- MERN Stack
-- Data Structures & Algorithms (Java)
-- System Design
-- AI Integration with Web Applications
-- Open Source Contributions
+- 🚀 Advanced MERN Stack
+- ☕ Java DSA
+- 🏗️ System Design
+- 🤖 AI Integration with Web Applications
+- 🌍 Open Source Contributions
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## ⚡ Fun Fact
+
+> 💡 *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj-yadav7&theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories.
+</p>
