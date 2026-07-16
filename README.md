@@ -78,7 +78,7 @@
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,mongodb" />
 </p>
 
 ---
