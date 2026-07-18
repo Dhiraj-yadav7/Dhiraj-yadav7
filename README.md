@@ -109,7 +109,8 @@
 
 > Interactive JavaScript game with responsive UI and score tracking.
 
-📂 **Repository:** https://github.com/Dhiraj-yadav7/ROCK-PAPER-SCISSOR-GAME-
+📂 **Repository:** https://github.com/Dhiraj-yadav7/rock-paper-scissor
+🔗 **Live Demo:** https://rock-paper-scissor-one-murex.vercel.app/
 
 ---
 
