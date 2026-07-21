@@ -110,30 +110,30 @@
 > Interactive JavaScript game with responsive UI and score tracking.
 
 📂 **Repository:** https://github.com/Dhiraj-yadav7/rock-paper-scissor
+
 🔗 **Live Demo:** https://rock-paper-scissor-one-murex.vercel.app/
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dhiraj-yadav7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhiraj-yadav7&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj-yadav7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-yadav7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="98%" src="https://streak-stats.demolab.com?user=Dhiraj-yadav7&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Dhiraj-yadav7&theme=tokyonight&hide_border=true" />
 </p>
+
 # 📈 Contribution Graph
 
-[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-yadav7&theme=tokyo-night)](https://github.com/Dhiraj-yadav7)
-
----
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj-yadav7&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-yadav7&theme=tokyo-night&hide_border=true" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhiraj-yadav7&theme=tokyonight" />
+</p>
 
 # 💡 Currently Learning
 
