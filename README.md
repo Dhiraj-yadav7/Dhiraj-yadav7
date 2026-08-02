@@ -23,7 +23,7 @@
 
 🤖 Currently building AI-powered applications and improving Data Structures & Algorithms.
 
-🌱 Exploring System Design and Backend Development.
+🌱 Exploring System Design and Backend Development
 
 💼 Open to Software Development Engineer (SDE), MERN Stack Developer and Full Stack Developer opportunities.
 
